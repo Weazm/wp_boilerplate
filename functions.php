@@ -1,6 +1,6 @@
 <?php
 // Set error reporting
-error_reporting(-1);
+error_reporting(1);
 ini_set('display_errors', 'On');
 ini_set('html_errors', 'On');
 
